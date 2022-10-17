@@ -32,7 +32,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebApp/lenslocked" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,6 +47,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1197" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1665591216173" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1665971299887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.63.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1665971299887" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1665779854374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
